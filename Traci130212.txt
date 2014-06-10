@@ -1,0 +1,25 @@
+- wave 1 include them
+- go live march 12
+- provision next week
+- end of this week
+- provisiong next week
+- no staging RTC and MSPS
+- no data conversion no staging
+- ITSM-RTC integration (March 19) weekend of go live
+- SMS until the end
+- no staging for ITSM AT THIS POINT. WILL CONFIRM WITH ROB
+- wednesday 15th - 6AM Traci - 630PM IDC
+- sure. Shsishr and Joshua in meeting if they bothe need in call
+- 
+- expectations
+John is deployment specialist
+
+Sure
+
+Status call 14th Feb
+- Venkat Nantrajan - BHP
+looking for incident to track teh efforts
+Reach Natts/KC
+- BHP using SMS or not - find out (Check with Ganesh)
+
+- Ganshes - quetions for execute phase if any changes

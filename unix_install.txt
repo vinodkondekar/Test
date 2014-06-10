@@ -1,0 +1,11 @@
+
+- VMware
+- ISO Image for redhat distribution or fedora
+- install VM
+- Create new VM image
+
+FedoraCore4
+VMware-player-5.0.1-894247
+
+
+Notes 
